@@ -1,1 +1,3 @@
 # permutation-game
+
+g
