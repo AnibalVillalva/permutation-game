@@ -9,7 +9,8 @@ const (
 type Context struct {
 	aPIError string
 	number   int64
-	result   [][]int64
+	tuples   [][]int64
+	order    int64
 }
 
 func Build() Context {
